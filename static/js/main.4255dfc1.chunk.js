@@ -1,0 +1,2 @@
+(this["webpackJsonp2-event_and-state"]=this["webpackJsonp2-event_and-state"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var s=n(1),a=n.n(s),c=n(3),r=n.n(c),d=(n.p,n(0));var p=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("header",{className:"App-header"})})};r.a.render(Object(d.jsx)(a.a.StrictMode,{children:Object(d.jsx)(p,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.4255dfc1.chunk.js.map
